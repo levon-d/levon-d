@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=levon-d)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=levon-d&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **levon-d/levon-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
